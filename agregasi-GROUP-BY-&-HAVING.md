@@ -13,7 +13,7 @@
 CREATE DATABASE "nama_database"
 ```
 **hasil:**
-![[BASIS-DATA-XII/asest/create-database.png]]
+![[asest/create-database.png]]
 
 
 # CREATE TABLE PEGAWAI
@@ -80,7 +80,7 @@ dari table pegawai,
 ```
 
 **hasil:**
-![[BASIS-DATA-XII/asest/create-table.png]]
+![[asest/create-table.png]]
 # DESC
 **Penjelasan** : Dalam MySQL, `DESC` adalah singkatan dari "DESCRIBE". Perintah `DESCRIBE` digunakan untuk menampilkan struktur dari tabel yang ada dalam database. Dengan menggunakan `DESCRIBE`, Anda bisa mendapatkan informasi mengenai kolom-kolom dalam tabel, termasuk nama kolom, tipe data, apakah kolom tersebut dapat bernilai `NULL` atau tidak, dan atribut lainnya seperti kunci primer (primary key) atau default value.
 
